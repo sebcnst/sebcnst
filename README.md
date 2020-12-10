@@ -3,6 +3,7 @@
 ### Hi there 👋
 
  📫 sebastien@mardi.io
+ &nbsp;
  🔎 [mardi.io](https://mardi.io)
 
 <!--
