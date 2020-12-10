@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
- 📫 sebastien@mardi.io
- &nbsp;
- 🔎 [mardi.io](https://mardi.io)
+ 📫&nbsp;sebastien@mardi.io
+ &nbsp;&nbsp;&nbsp;
+ 🔎&nbsp;[mardi.io](https://mardi.io)
 
 <!--
 **sebcnst/sebcnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
