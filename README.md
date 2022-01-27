@@ -1,6 +1,3 @@
-# [![sebastien constans header](https://mardi.io/cloud/ban.jpg)](https://mardi.io)
-
-
  📫&nbsp;sebastien@mardi.io
  &nbsp;&nbsp;&nbsp;
  🔎&nbsp;[mardi.io](https://mardi.io)
